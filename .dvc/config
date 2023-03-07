@@ -1,0 +1,4 @@
+['remote "dataset-track"']
+    url = s3://mlops-deployment-storage/datasets
+['remote "model-tracker"']
+    url = s3://mlops-deployment-storage/model
